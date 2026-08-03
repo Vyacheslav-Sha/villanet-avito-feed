@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>VN-INET-MO-001</Id>
+    <DateBegin>2026-08-03 19:30:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ManagerName>Villa.Net</ManagerName>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
+    <Title>Интернет 4G/5G в частный дом под ключ</Title>
+    <Description><![CDATA[Интернет 4G/5G в частный дом под ключ.
+
+За городом интернет тормозит, видеосвязь прерывается, а карта покрытия обещает больше, чем есть? Проверим операторов и частоты прямо на участке, подберём систему под дом, дачу или СНТ и проверим результат при вас.
+
+Напишите в чат Avito адрес или название посёлка — инженер бесплатно выполнит предварительную проверку и предложит следующий шаг без навязчивого звонка.
+
+Villa.Net — инженерный сервис для загородных домов Московской области. Один инженер ведёт объект от первого сообщения до приёмки. Работаем по договору, состав системы и смету согласуем до монтажа.
+
+Что входит в работу:
+
+— предварительная проверка адреса, ближайших базовых станций и рельефа;
+— бесплатный замер доступных операторов на участке;
+— подбор MIMO-антенны, модема, роутера и Wi‑Fi-покрытия;
+— аккуратный монтаж и настройка оборудования;
+— проверка скорости и стабильности при вас.
+
+Точную скорость нельзя честно обещать по карте. На результат влияют расстояние до станции, загрузка сектора, лес, рельеф, материал стен и высота установки антенны. Поэтому сначала измеряем сигнал, затем согласуем решение и критерий приёмки.
+
+Цена 11 250 ₽ — стартовая стоимость базового решения для дачи. Ориентир для такого сценария: 11 250–21 890 ₽. Итоговую смету фиксируем до монтажа.
+
+Работаем по Московской области до 150 км от МКАД.]]></Description>
+    <Address>Московская область, Дмитров</Address>
+    <Price>11250</Price>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+    </Images>
+    <Place>У клиента</Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <PriceList>
+      <Service>
+        <ServiceName>Подключение дачи, дома к интернету</ServiceName>
+        <ServicePrice>11250</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+  </Ad>
+</Ads>
