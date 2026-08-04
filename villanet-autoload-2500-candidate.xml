@@ -10,7 +10,13 @@
     <ServiceType>Компьютерная помощь</ServiceType>
     <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
     <WorkExperience>5 лет</WorkExperience>
-    <WorkDays>пн., вт., ср., чт., пт., сб., вс.</WorkDays>
+    <WorkDays>пн.</WorkDays>
+    <WorkDays>вт.</WorkDays>
+    <WorkDays>ср.</WorkDays>
+    <WorkDays>чт.</WorkDays>
+    <WorkDays>пт.</WorkDays>
+    <WorkDays>сб.</WorkDays>
+    <WorkDays>вс.</WorkDays>
     <WorkTimeFrom>08:00</WorkTimeFrom>
     <WorkTimeTo>22:00</WorkTimeTo>
     <Title>Интернет в частный дом 4G/5G — замер и монтаж</Title>
@@ -156,7 +162,13 @@
     <ServiceType>Компьютерная помощь</ServiceType>
     <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
     <WorkExperience>5 лет</WorkExperience>
-    <WorkDays>пн., вт., ср., чт., пт., сб., вс.</WorkDays>
+    <WorkDays>пн.</WorkDays>
+    <WorkDays>вт.</WorkDays>
+    <WorkDays>ср.</WorkDays>
+    <WorkDays>чт.</WorkDays>
+    <WorkDays>пт.</WorkDays>
+    <WorkDays>сб.</WorkDays>
+    <WorkDays>вс.</WorkDays>
     <WorkTimeFrom>08:00</WorkTimeFrom>
     <WorkTimeTo>22:00</WorkTimeTo>
     <Title>Интернет в частный дом 4G/5G — замер и монтаж</Title>
@@ -302,7 +314,13 @@
     <ServiceType>Компьютерная помощь</ServiceType>
     <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
     <WorkExperience>5 лет</WorkExperience>
-    <WorkDays>пн., вт., ср., чт., пт., сб., вс.</WorkDays>
+    <WorkDays>пн.</WorkDays>
+    <WorkDays>вт.</WorkDays>
+    <WorkDays>ср.</WorkDays>
+    <WorkDays>чт.</WorkDays>
+    <WorkDays>пт.</WorkDays>
+    <WorkDays>сб.</WorkDays>
+    <WorkDays>вс.</WorkDays>
     <WorkTimeFrom>08:00</WorkTimeFrom>
     <WorkTimeTo>22:00</WorkTimeTo>
     <Title>Интернет в частный дом 4G/5G — замер и монтаж</Title>
