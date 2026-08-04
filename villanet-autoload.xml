@@ -2,7 +2,6 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>VN-INET-MO-001</Id>
-    <DateBegin>2026-08-03 19:30:00</DateBegin>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
     <ManagerName>Villa.Net</ManagerName>
@@ -10,37 +9,39 @@
     <Category>Предложение услуг</Category>
     <ServiceType>Компьютерная помощь</ServiceType>
     <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
-    <Title>Интернет 4G/5G в частный дом под ключ</Title>
-    <Description><![CDATA[Интернет 4G/5G в частный дом под ключ.
+    <Title>Интернет в частный дом 4G/5G — замер и монтаж</Title>
+    <Description><![CDATA[Интернет в частный дом 4G/5G — с замером сигнала по вашему адресу.
 
-За городом интернет тормозит, видеосвязь прерывается, а карта покрытия обещает больше, чем есть? Проверим операторов и частоты прямо на участке, подберём систему под дом, дачу или СНТ и проверим результат при вас.
+Подберём оператора, антенну и Wi‑Fi без лишнего оборудования.
 
-Напишите в чат Avito адрес или название посёлка — инженер бесплатно выполнит предварительную проверку и предложит следующий шаг без навязчивого звонка.
+Согласуем состав системы, кабельную трассу и смету до монтажа.
 
-Villa.Net — инженерный сервис для загородных домов Московской области. Один инженер ведёт объект от первого сообщения до приёмки. Работаем по договору, состав системы и смету согласуем до монтажа.
+Напишите адрес или название СНТ — предварительно проверим ближайшие вышки.
 
-Что входит в работу:
+Villa.Net — инженерный сервис для загородных домов Московской области. Один инженер ведёт объект от первого сообщения до проверки результата. Работаем по договору, стоимость и состав решения согласуем до начала монтажа.
 
-— предварительная проверка адреса, ближайших базовых станций и рельефа;
-— бесплатный замер доступных операторов на участке;
-— подбор MIMO-антенны, модема, роутера и Wi‑Fi-покрытия;
-— аккуратный монтаж и настройка оборудования;
-— проверка скорости и стабильности при вас.
+Что делаем:
 
-Точную скорость нельзя честно обещать по карте. На результат влияют расстояние до станции, загрузка сектора, лес, рельеф, материал стен и высота установки антенны. Поэтому сначала измеряем сигнал, затем согласуем решение и критерий приёмки.
+— предварительно проверяем ближайшие базовые станции и рельеф;
+— измеряем доступных операторов на участке;
+— подбираем MIMO-антенну, модем, роутер и Wi‑Fi под площадь дома;
+— согласуем места оборудования и кабельную трассу;
+— выполняем монтаж, настройку и проверяем результат при вас.
 
-Цена 11 250 ₽ — стартовая стоимость базового решения для дачи. Ориентир для такого сценария: 11 250–21 890 ₽. Итоговую смету фиксируем до монтажа.
+Не обещаем скорость по карте покрытия: на неё влияют расстояние до станции, загрузка сектора, лес, рельеф, стены и высота антенны. Сначала измеряем сигнал, затем предлагаем понятное решение.
 
-Работаем по Московской области до 150 км от МКАД.]]></Description>
+11 250 ₽ — стартовая стоимость базового решения для дачи. Итог зависит от результата замера, оборудования, площади Wi‑Fi и длины кабельной трассы. Смету фиксируем до монтажа.
+
+Работаем по Московской области. Напишите адрес или название посёлка — ответим, что можно проверить дистанционно и какой следующий шаг нужен.]]></Description>
     <Address>Московская область, Дмитров</Address>
     <Price>11250</Price>
     <Images>
-      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/wave-01/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
-      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
     </Images>
     <Place>У клиента</Place>
@@ -49,6 +50,120 @@ Villa.Net — инженерный сервис для загородных до
     <PriceList>
       <Service>
         <ServiceName>Подключение дачи, дома к интернету</ServiceName>
+        <ServicePrice>11250</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+  </Ad>
+
+  <Ad>
+    <Id>VN-INET-ISTRA-001</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ManagerName>Villa.Net</ManagerName>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
+    <Title>Интернет 4G/5G для дома, работы и камер</Title>
+    <Description><![CDATA[Интернет 4G/5G для дома, видеосвязи и удалённого доступа к камерам.
+
+Измерим сигнал разных операторов и проверим стабильность канала.
+
+Подберём антенну, модем и Wi‑Fi под вашу реальную нагрузку.
+
+Напишите адрес и задачу — работа, видео, камеры или обычный интернет.
+
+Villa.Net проектирует и устанавливает интернет-системы для загородных домов Московской области. Не продаём комплект вслепую: сначала проверяем условия на объекте, потом согласуем оборудование, трассу и стоимость.
+
+Для удалённой работы и камер важно не только максимальное число в тесте скорости. Проверяем стабильность соединения, загрузку подходящих операторов и возможность уверенного Wi‑Fi-покрытия в нужных комнатах.
+
+В работу входит:
+
+— предварительная проверка адреса и базовых станций;
+— замер доступных операторов;
+— подбор внешней антенны, модема и роутера;
+— настройка Wi‑Fi под рабочее место и необходимые зоны;
+— монтаж, запуск и проверка при вас.
+
+Стоимость базового решения начинается от 11 250 ₽. Финальная смета зависит от оборудования, площади покрытия и кабельной трассы и согласуется до монтажа.
+
+Напишите адрес, сколько комнат нужно покрыть и для чего нужен интернет. Подготовим следующий шаг без навязчивого звонка.]]></Description>
+    <Address>Московская область, Истра</Address>
+    <Price>11250</Price>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/wave-01/istra/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+    </Images>
+    <Place>У клиента</Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <PriceList>
+      <Service>
+        <ServiceName>Интернет для работы и видеонаблюдения</ServiceName>
+        <ServicePrice>11250</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+  </Ad>
+
+  <Ad>
+    <Id>VN-INET-NAROFOMINSK-001</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ManagerName>Villa.Net</ManagerName>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
+    <Title>Интернет и Wi‑Fi для загородного дома под ключ</Title>
+    <Description><![CDATA[Интернет и Wi‑Fi для загородного дома — от внешней антенны до нужных комнат.
+
+Измерим операторов и не будем подбирать оборудование только по карте покрытия.
+
+Заранее согласуем точки Wi‑Fi, кабельную трассу и смету.
+
+Напишите адрес и площадь дома — предложим следующий шаг.
+
+Villa.Net делает готовую интернет-систему для дачи или постоянного проживания. Один инженер отвечает за замер, подбор, монтаж и проверку результата. Работаем по договору, состав решения и стоимость фиксируем до монтажа.
+
+Подбираем не только внешнюю антенну и модем. Учитываем площадь, этажи, материал стен, расположение рабочих мест, телевизоров и камер, чтобы Wi‑Fi был там, где он действительно нужен.
+
+Этапы работы:
+
+— проверка адреса и ближайших базовых станций;
+— замер операторов на участке;
+— план оборудования и Wi‑Fi-зон;
+— согласование трассы и сметы;
+— монтаж, настройка и приёмка.
+
+Стартовая стоимость базового решения — 11 250 ₽. Точную цену определяем после проверки условий и согласуем до работ.
+
+Напишите адрес, площадь и количество этажей. Ответим, какие данные можно проверить сразу и нужен ли выезд.]]></Description>
+    <Address>Московская область, Наро-Фоминск</Address>
+    <Price>11250</Price>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/wave-01/naro-fominsk/01-cover.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+    </Images>
+    <Place>У клиента</Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <PriceList>
+      <Service>
+        <ServiceName>Интернет и Wi‑Fi для загородного дома</ServiceName>
         <ServicePrice>11250</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
