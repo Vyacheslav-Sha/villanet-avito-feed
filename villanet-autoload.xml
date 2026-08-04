@@ -106,7 +106,7 @@ Villa.Net проектирует и устанавливает интернет-
     <Guarantee>Есть</Guarantee>
     <PriceList>
       <Service>
-        <ServiceName>Интернет для работы и видеонаблюдения</ServiceName>
+        <ServiceName>Подключение дачи, дома к интернету</ServiceName>
         <ServicePrice>11250</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
@@ -163,7 +163,7 @@ Villa.Net делает готовую интернет-систему для д�
     <Guarantee>Есть</Guarantee>
     <PriceList>
       <Service>
-        <ServiceName>Интернет и Wi‑Fi для загородного дома</ServiceName>
+        <ServiceName>Подключение дачи, дома к интернету</ServiceName>
         <ServicePrice>11250</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
