@@ -1034,7 +1034,7 @@
   </Ad>
 
   <Ad>
-    <Id>VN-SIGNAL-ISTRA-001</Id>
+    <Id>VN-INET-BALASHIKHA-001</Id>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
     <ManagerName>Villa.Net</ManagerName>
@@ -1052,7 +1052,7 @@
     <WorkDays>вс.</WorkDays>
     <WorkTimeFrom>08:00</WorkTimeFrom>
     <WorkTimeTo>22:00</WorkTimeTo>
-    <Title>Усиление сигнала 4G/5G для дома и камер</Title>
+    <Title>Интернет 4G/5G для частного дома — Балашиха</Title>
     <Description><![CDATA[<p>📡 <strong>ДИАГНОСТИКА 4G/5G И ЗАМЕРЫ СИГНАЛА — БЕСПЛАТНО.</strong></p>
 <p>🛠️ <strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></p>
 <p>🏠 Нужен стабильный 4G/5G для работы, видеосвязи и удалённого доступа к камерам? Начнём с замеров.</p>
@@ -1061,7 +1061,7 @@
 
 <p>✅ <strong>ПОЧЕМУ VILLA.NET</strong></p>
 <ul>
-  <li>По Истринскому району подбираем систему под реальную нагрузку дома: рабочие места, телевизоры, камеры и гостевой Wi‑Fi.</li>
+  <li>По Балашихе и городскому округу подбираем систему под реальную нагрузку дома: рабочие места, телевизоры, камеры и гостевой Wi‑Fi.</li>
   <li>Сравниваем доступных операторов на объекте, а не обещаем результат по карте покрытия.</li>
   <li>Согласуем состав системы, трассу и стоимость до начала работ.</li>
   <li>Работаем с физлицами, ИП и организациями: договор и гарантия.</li>
@@ -1085,7 +1085,7 @@
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
 <p>🚀 <strong>Чтобы начать:</strong> Напишите адрес, текущего оператора, что должно работать и к какому сроку.</p>
 <p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
-    <Address>Московская область, Истра</Address>
+    <Address>Московская область, Балашиха</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
@@ -1181,7 +1181,7 @@
   </Ad>
 
   <Ad>
-    <Id>VN-INET-SERGIEV-001</Id>
+    <Id>VN-INET-PODOLSK-001</Id>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
     <ManagerName>Villa.Net</ManagerName>
@@ -1199,7 +1199,7 @@
     <WorkDays>вс.</WorkDays>
     <WorkTimeFrom>08:00</WorkTimeFrom>
     <WorkTimeTo>22:00</WorkTimeTo>
-    <Title>Интернет и Wi‑Fi в частный дом под ключ</Title>
+    <Title>Интернет и Wi‑Fi в частный дом — Подольск</Title>
     <Description><![CDATA[<p>📡 <strong>ДИАГНОСТИКА 4G/5G И ЗАМЕРЫ СИГНАЛА — БЕСПЛАТНО.</strong></p>
 <p>🛠️ <strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></p>
 <p>🏠 Интернет и Wi‑Fi для частного дома — подберём систему по замерам и площади, а не вслепую.</p>
@@ -1208,7 +1208,7 @@
 
 <p>✅ <strong>ПОЧЕМУ VILLA.NET</strong></p>
 <ul>
-  <li>Для домов Сергиево‑Посадского округа заранее оцениваем рельеф, лес и зоны, где нужен уверенный Wi‑Fi.</li>
+  <li>Для домов Подольска и городского округа заранее оцениваем рельеф, застройку и зоны, где нужен уверенный Wi‑Fi.</li>
   <li>Сравниваем доступных операторов на объекте, а не обещаем результат по карте покрытия.</li>
   <li>Согласуем состав системы, трассу и стоимость до начала работ.</li>
   <li>Работаем с физлицами, ИП и организациями: договор и гарантия.</li>
@@ -1232,7 +1232,7 @@
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
 <p>🚀 <strong>Чтобы начать:</strong> Пришлите адрес, площадь и этажность дома, текущую проблему и желаемый срок.</p>
 <p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
-    <Address>Московская область, Сергиев Посад</Address>
+    <Address>Московская область, Подольск</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/sergiev-posad/01-cover.png" />
