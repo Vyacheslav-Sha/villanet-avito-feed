@@ -51,12 +51,14 @@
 
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» - СКИДКА 20%.</strong> При подтверждённой рекомендации соседу предоставляем скидку 20% на наши работы. Условия фиксируем до начала монтажа.</p>
 <p>💬 После выполненного заказа будем благодарны за честный отзыв на Avito - независимо от оценки.</p>
-<p>🚀 <strong>Напишите сейчас:</strong> адрес, задачу, текущего оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Напишите сейчас:</strong> адрес, задачу, текущего оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Дмитров</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
@@ -75,19 +77,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -203,12 +199,14 @@
 
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» - СКИДКА 20%.</strong> При подтверждённой рекомендации соседу предоставляем скидку 20% на наши работы. Условия фиксируем до начала монтажа.</p>
 <p>💬 После выполненного заказа будем благодарны за честный отзыв на Avito - независимо от оценки.</p>
-<p>🚀 <strong>Напишите сейчас:</strong> адрес, что должно работать, текущего оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Напишите сейчас:</strong> адрес, что должно работать, текущего оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Истра</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
@@ -227,19 +225,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -356,12 +348,14 @@
 
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» - СКИДКА 20%.</strong> При подтверждённой рекомендации соседу предоставляем скидку 20% на наши работы. Условия фиксируем до начала монтажа.</p>
 <p>💬 После выполненного заказа будем благодарны за честный отзыв на Avito - независимо от оценки.</p>
-<p>🚀 <strong>Напишите сейчас:</strong> адрес, площадь и этажность, текущего оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Напишите сейчас:</strong> адрес, площадь и этажность, текущего оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Наро-Фоминск</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
@@ -380,19 +374,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -507,12 +495,14 @@
 </ul>
 
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
-<p>🚀 <strong>Чтобы начать:</strong> Напишите населённый пункт или СНТ, текущего оператора, проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать:</strong> Напишите населённый пункт или СНТ, текущего оператора, проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Клин</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/sergiev-posad/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
@@ -531,19 +521,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -658,12 +642,14 @@
 </ul>
 
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
-<p>🚀 <strong>Чтобы начать:</strong> Пришлите адрес, название посёлка, оператора, что именно не работает и когда нужен результат.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать:</strong> Пришлите адрес, название посёлка, оператора, что именно не работает и когда нужен результат.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Раменское</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/ramenskoe/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
@@ -682,19 +668,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -809,12 +789,14 @@
 </ul>
 
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
-<p>🚀 <strong>Чтобы начать:</strong> Напишите адрес, оператора, текущую проблему и желаемый срок подключения.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать:</strong> Напишите адрес, оператора, текущую проблему и желаемый срок подключения.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Сергиев Посад</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/sergiev-posad/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
@@ -833,19 +815,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -960,12 +936,14 @@
 </ul>
 
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
-<p>🚀 <strong>Чтобы начать:</strong> Напишите адрес или название СНТ, площадь дома, задачу и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать:</strong> Напишите адрес или название СНТ, площадь дома, задачу и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Солнечногорск</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
@@ -984,19 +962,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -1111,12 +1083,14 @@
 </ul>
 
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
-<p>🚀 <strong>Чтобы начать:</strong> Напишите адрес, текущего оператора, что должно работать и к какому сроку.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать:</strong> Напишите адрес, текущего оператора, что должно работать и к какому сроку.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Истра</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
@@ -1135,19 +1109,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -1262,12 +1230,14 @@
 </ul>
 
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
-<p>🚀 <strong>Чтобы начать:</strong> Пришлите адрес, площадь и этажность дома, текущую проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать:</strong> Пришлите адрес, площадь и этажность дома, текущую проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Сергиев Посад</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/sergiev-posad/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
@@ -1286,19 +1256,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -1413,12 +1377,14 @@
 </ul>
 
 <p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
-<p>🚀 <strong>Чтобы начать:</strong> Напишите населённый пункт или СНТ, оператора, проблему и когда нужен монтаж.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать:</strong> Напишите населённый пункт или СНТ, оператора, проблему и когда нужен монтаж.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Наро-Фоминск</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
@@ -1437,19 +1403,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -1565,12 +1525,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Домодедово</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
@@ -1589,19 +1551,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -1717,12 +1673,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Щёлково</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
@@ -1741,19 +1699,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -1869,12 +1821,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Пушкино</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
@@ -1893,19 +1847,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -2021,12 +1969,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Апрелевка</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/ramenskoe/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
@@ -2045,19 +1995,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -2173,12 +2117,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Голицыно</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
@@ -2197,19 +2143,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -2325,12 +2265,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Ногинск</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
@@ -2349,19 +2291,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -2477,12 +2413,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Кубинка</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/ramenskoe/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
@@ -2501,19 +2439,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -2629,12 +2561,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Звенигород</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/sergiev-posad/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
@@ -2653,19 +2587,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -2781,12 +2709,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Воскресенск</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
@@ -2805,19 +2735,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -2933,12 +2857,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Егорьевск</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
@@ -2957,19 +2883,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -3085,12 +3005,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Химки</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
@@ -3109,19 +3031,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -3237,12 +3153,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Коломна</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/ramenskoe/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
@@ -3261,19 +3179,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -3389,12 +3301,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Павловский Посад</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/sergiev-posad/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
@@ -3413,19 +3327,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -3541,12 +3449,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Чехов</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
@@ -3565,19 +3475,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -3693,12 +3597,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Серпухов</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
@@ -3717,19 +3623,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -3845,12 +3745,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Куровское</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
@@ -3869,19 +3771,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -3997,12 +3893,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Хотьково</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/ramenskoe/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
@@ -4021,19 +3919,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -4149,12 +4041,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Одинцово</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/sergiev-posad/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
@@ -4173,19 +4067,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -4301,12 +4189,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Бронницы</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
@@ -4325,19 +4215,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
@@ -4453,12 +4337,14 @@
 </ul>
 
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
-<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>]]></Description>
+<p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
+<p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
     <Address>Московская область, Красногорск</Address>
     <Price>2500</Price>
     <Images>
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
       <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
@@ -4477,19 +4363,13 @@
       </Service>
       <Service>
         <ServiceName>Настройка Wi-Fi роутера</ServiceName>
-        <ServicePrice>2600</ServicePrice>
-        <ServiceStartingPrice>Нет</ServiceStartingPrice>
-        <ServicePriceType>за услугу</ServicePriceType>
-      </Service>
-      <Service>
-        <ServiceName>Настройка сервера</ServiceName>
-        <ServicePrice>2000</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Нет</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
       <Service>
         <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
-        <ServicePrice>2600</ServicePrice>
+        <ServicePrice>2500</ServicePrice>
         <ServiceStartingPrice>Да</ServiceStartingPrice>
         <ServicePriceType>за услугу</ServicePriceType>
       </Service>
