@@ -456,4 +456,1061 @@
       </Service>
     </PriceList>
   </Ad>
+
+  <Ad>
+    <Id>VN-SIGNAL-KLIN-001</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ManagerName>Villa.Net</ManagerName>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
+    <WorkExperience>5 лет</WorkExperience>
+    <WorkDays>пн.</WorkDays>
+    <WorkDays>вт.</WorkDays>
+    <WorkDays>ср.</WorkDays>
+    <WorkDays>чт.</WorkDays>
+    <WorkDays>пт.</WorkDays>
+    <WorkDays>сб.</WorkDays>
+    <WorkDays>вс.</WorkDays>
+    <WorkTimeFrom>08:00</WorkTimeFrom>
+    <WorkTimeTo>22:00</WorkTimeTo>
+    <Title>Усиление 4G/5G в доме — замер и настройка</Title>
+    <Description><![CDATA[<p>📡 <strong>ДИАГНОСТИКА 4G/5G И ЗАМЕРЫ СИГНАЛА — БЕСПЛАТНО.</strong></p>
+<p>🛠️ <strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></p>
+<p>🏠 Слабый или нестабильный 4G/5G в доме? Начинаем с проверки адреса и замеров сигнала.</p>
+<p>Сравним доступных операторов, найдём рабочее направление для антенны и проверим, где теряется сигнал — на участке, в кабеле, модеме или Wi‑Fi.</p>
+<p>📍 <strong>Напишите населённый пункт или СНТ, текущего оператора, проблему и желаемый срок.</strong></p>
+
+<p>✅ <strong>ПОЧЕМУ VILLA.NET</strong></p>
+<ul>
+  <li>Для домов Клина и ближайших посёлков подбираем решение по фактическим замерам, а не только по карте покрытия.</li>
+  <li>Сравниваем доступных операторов на объекте, а не обещаем результат по карте покрытия.</li>
+  <li>Согласуем состав системы, трассу и стоимость до начала работ.</li>
+  <li>Работаем с физлицами, ИП и организациями: договор и гарантия.</li>
+</ul>
+
+<p>🎯 <strong>ЧТО ВХОДИТ В РАБОТУ</strong></p>
+<ul>
+  <li>предварительная проверка адреса и ближайших базовых станций;</li>
+  <li>замер доступных операторов и оценка стабильности;</li>
+  <li>подбор антенны, модема, роутера и Wi‑Fi-зон;</li>
+  <li>монтаж, настройка и проверка результата при вас.</li>
+</ul>
+
+<p>💳 <strong>ПРАЙС</strong></p>
+<ul>
+  <li><strong>Диагностика и замеры сигнала — бесплатно.</strong></li>
+  <li><strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></li>
+  <li><strong>Базовое решение 4G/5G с оборудованием и монтажом — от 8 490 ₽.</strong></li>
+</ul>
+
+<p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
+<p>🚀 <strong>Чтобы начать:</strong> Напишите населённый пункт или СНТ, текущего оператора, проблему и желаемый срок.</p>]]></Description>
+    <Address>Московская область, Клин</Address>
+    <Price>2500</Price>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+    </Images>
+    <Place>У клиента</Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика сетевого оборудования</ServiceName>
+        <ServicePrice>0</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка Wi-Fi роутера</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка сервера</ServiceName>
+        <ServicePrice>2000</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение дачи, дома к интернету</ServiceName>
+        <ServicePrice>2500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение офиса к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение квартиры к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Усиление сигнала интернета</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Обновление прошивки роутера</ServiceName>
+        <ServicePrice>2400</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект для оборудования эконом</ServiceTitle>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект усиленный эконом</ServiceTitle>
+        <ServicePrice>12430</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект универсальный</ServiceTitle>
+        <ServicePrice>16770</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект Pro-lite</ServiceTitle>
+        <ServicePrice>21890</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+  </Ad>
+
+  <Ad>
+    <Id>VN-SIGNAL-RAMENSKOE-001</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ManagerName>Villa.Net</ManagerName>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
+    <WorkExperience>5 лет</WorkExperience>
+    <WorkDays>пн.</WorkDays>
+    <WorkDays>вт.</WorkDays>
+    <WorkDays>ср.</WorkDays>
+    <WorkDays>чт.</WorkDays>
+    <WorkDays>пт.</WorkDays>
+    <WorkDays>сб.</WorkDays>
+    <WorkDays>вс.</WorkDays>
+    <WorkTimeFrom>08:00</WorkTimeFrom>
+    <WorkTimeTo>22:00</WorkTimeTo>
+    <Title>Слабый интернет на даче — усилим 4G/5G</Title>
+    <Description><![CDATA[<p>📡 <strong>ДИАГНОСТИКА 4G/5G И ЗАМЕРЫ СИГНАЛА — БЕСПЛАТНО.</strong></p>
+<p>🛠️ <strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></p>
+<p>🏠 Интернет пропадает вечером, не тянет видеосвязь или камеры? Проверим 4G/5G по вашему адресу.</p>
+<p>Измерим операторов на участке, подберём внешнюю антенну, модем и Wi‑Fi под площадь дома и реальную нагрузку.</p>
+<p>📍 <strong>Пришлите адрес, название посёлка, оператора, что именно не работает и когда нужен результат.</strong></p>
+
+<p>✅ <strong>ПОЧЕМУ VILLA.NET</strong></p>
+<ul>
+  <li>В Раменском районе особенно важно проверить загрузку сектора и рельеф: одинаковая карта покрытия не гарантирует одинаковую скорость на соседних улицах.</li>
+  <li>Сравниваем доступных операторов на объекте, а не обещаем результат по карте покрытия.</li>
+  <li>Согласуем состав системы, трассу и стоимость до начала работ.</li>
+  <li>Работаем с физлицами, ИП и организациями: договор и гарантия.</li>
+</ul>
+
+<p>🎯 <strong>ЧТО ВХОДИТ В РАБОТУ</strong></p>
+<ul>
+  <li>предварительная проверка адреса и ближайших базовых станций;</li>
+  <li>замер доступных операторов и оценка стабильности;</li>
+  <li>подбор антенны, модема, роутера и Wi‑Fi-зон;</li>
+  <li>монтаж, настройка и проверка результата при вас.</li>
+</ul>
+
+<p>💳 <strong>ПРАЙС</strong></p>
+<ul>
+  <li><strong>Диагностика и замеры сигнала — бесплатно.</strong></li>
+  <li><strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></li>
+  <li><strong>Базовое решение 4G/5G с оборудованием и монтажом — от 8 490 ₽.</strong></li>
+</ul>
+
+<p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
+<p>🚀 <strong>Чтобы начать:</strong> Пришлите адрес, название посёлка, оператора, что именно не работает и когда нужен результат.</p>]]></Description>
+    <Address>Московская область, Раменское</Address>
+    <Price>2500</Price>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
+    </Images>
+    <Place>У клиента</Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика сетевого оборудования</ServiceName>
+        <ServicePrice>0</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка Wi-Fi роутера</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка сервера</ServiceName>
+        <ServicePrice>2000</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение дачи, дома к интернету</ServiceName>
+        <ServicePrice>2500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение офиса к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение квартиры к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Усиление сигнала интернета</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Обновление прошивки роутера</ServiceName>
+        <ServicePrice>2400</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект для оборудования эконом</ServiceTitle>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект усиленный эконом</ServiceTitle>
+        <ServicePrice>12430</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект универсальный</ServiceTitle>
+        <ServicePrice>16770</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект Pro-lite</ServiceTitle>
+        <ServicePrice>21890</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+  </Ad>
+
+  <Ad>
+    <Id>VN-SIGNAL-SERGIEV-001</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ManagerName>Villa.Net</ManagerName>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
+    <WorkExperience>5 лет</WorkExperience>
+    <WorkDays>пн.</WorkDays>
+    <WorkDays>вт.</WorkDays>
+    <WorkDays>ср.</WorkDays>
+    <WorkDays>чт.</WorkDays>
+    <WorkDays>пт.</WorkDays>
+    <WorkDays>сб.</WorkDays>
+    <WorkDays>вс.</WorkDays>
+    <WorkTimeFrom>08:00</WorkTimeFrom>
+    <WorkTimeTo>22:00</WorkTimeTo>
+    <Title>Усиление мобильного интернета 4G/5G</Title>
+    <Description><![CDATA[<p>📡 <strong>ДИАГНОСТИКА 4G/5G И ЗАМЕРЫ СИГНАЛА — БЕСПЛАТНО.</strong></p>
+<p>🛠️ <strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></p>
+<p>🏠 Низкая скорость и обрывы мобильного интернета в частном доме — проведём диагностику 4G/5G.</p>
+<p>Проверим доступные базовые станции, измерим сигнал разных операторов и предложим комплект без лишнего оборудования.</p>
+<p>📍 <strong>Напишите адрес, оператора, текущую проблему и желаемый срок подключения.</strong></p>
+
+<p>✅ <strong>ПОЧЕМУ VILLA.NET</strong></p>
+<ul>
+  <li>Для Сергиева Посада и удалённых посёлков учитываем лес, перепад высот, материал дома и длину кабельной трассы.</li>
+  <li>Сравниваем доступных операторов на объекте, а не обещаем результат по карте покрытия.</li>
+  <li>Согласуем состав системы, трассу и стоимость до начала работ.</li>
+  <li>Работаем с физлицами, ИП и организациями: договор и гарантия.</li>
+</ul>
+
+<p>🎯 <strong>ЧТО ВХОДИТ В РАБОТУ</strong></p>
+<ul>
+  <li>предварительная проверка адреса и ближайших базовых станций;</li>
+  <li>замер доступных операторов и оценка стабильности;</li>
+  <li>подбор антенны, модема, роутера и Wi‑Fi-зон;</li>
+  <li>монтаж, настройка и проверка результата при вас.</li>
+</ul>
+
+<p>💳 <strong>ПРАЙС</strong></p>
+<ul>
+  <li><strong>Диагностика и замеры сигнала — бесплатно.</strong></li>
+  <li><strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></li>
+  <li><strong>Базовое решение 4G/5G с оборудованием и монтажом — от 8 490 ₽.</strong></li>
+</ul>
+
+<p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
+<p>🚀 <strong>Чтобы начать:</strong> Напишите адрес, оператора, текущую проблему и желаемый срок подключения.</p>]]></Description>
+    <Address>Московская область, Сергиев Посад</Address>
+    <Price>2500</Price>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
+    </Images>
+    <Place>У клиента</Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика сетевого оборудования</ServiceName>
+        <ServicePrice>0</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка Wi-Fi роутера</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка сервера</ServiceName>
+        <ServicePrice>2000</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение дачи, дома к интернету</ServiceName>
+        <ServicePrice>2500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение офиса к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение квартиры к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Усиление сигнала интернета</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Обновление прошивки роутера</ServiceName>
+        <ServicePrice>2400</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект для оборудования эконом</ServiceTitle>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект усиленный эконом</ServiceTitle>
+        <ServicePrice>12430</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект универсальный</ServiceTitle>
+        <ServicePrice>16770</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект Pro-lite</ServiceTitle>
+        <ServicePrice>21890</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+  </Ad>
+
+  <Ad>
+    <Id>VN-INET-SOLNECHNOGORSK-001</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ManagerName>Villa.Net</ManagerName>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
+    <WorkExperience>5 лет</WorkExperience>
+    <WorkDays>пн.</WorkDays>
+    <WorkDays>вт.</WorkDays>
+    <WorkDays>ср.</WorkDays>
+    <WorkDays>чт.</WorkDays>
+    <WorkDays>пт.</WorkDays>
+    <WorkDays>сб.</WorkDays>
+    <WorkDays>вс.</WorkDays>
+    <WorkTimeFrom>08:00</WorkTimeFrom>
+    <WorkTimeTo>22:00</WorkTimeTo>
+    <Title>Интернет 4G/5G для дачи — замер и монтаж</Title>
+    <Description><![CDATA[<p>📡 <strong>ДИАГНОСТИКА 4G/5G И ЗАМЕРЫ СИГНАЛА — БЕСПЛАТНО.</strong></p>
+<p>🛠️ <strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></p>
+<p>🏠 Интернет 4G/5G для дачи или постоянного проживания — от замера сигнала до готового Wi‑Fi.</p>
+<p>Подберём оператора, антенну, модем и роутер под ваш дом. Согласуем точки Wi‑Fi, кабельную трассу и смету до монтажа.</p>
+<p>📍 <strong>Напишите адрес или название СНТ, площадь дома, задачу и желаемый срок.</strong></p>
+
+<p>✅ <strong>ПОЧЕМУ VILLA.NET</strong></p>
+<ul>
+  <li>В Солнечногорске сначала проверяем конкретный участок и ближайшие станции, затем предлагаем технически обоснованный вариант.</li>
+  <li>Сравниваем доступных операторов на объекте, а не обещаем результат по карте покрытия.</li>
+  <li>Согласуем состав системы, трассу и стоимость до начала работ.</li>
+  <li>Работаем с физлицами, ИП и организациями: договор и гарантия.</li>
+</ul>
+
+<p>🎯 <strong>ЧТО ВХОДИТ В РАБОТУ</strong></p>
+<ul>
+  <li>предварительная проверка адреса и ближайших базовых станций;</li>
+  <li>замер доступных операторов и оценка стабильности;</li>
+  <li>подбор антенны, модема, роутера и Wi‑Fi-зон;</li>
+  <li>монтаж, настройка и проверка результата при вас.</li>
+</ul>
+
+<p>💳 <strong>ПРАЙС</strong></p>
+<ul>
+  <li><strong>Диагностика и замеры сигнала — бесплатно.</strong></li>
+  <li><strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></li>
+  <li><strong>Базовое решение 4G/5G с оборудованием и монтажом — от 8 490 ₽.</strong></li>
+</ul>
+
+<p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
+<p>🚀 <strong>Чтобы начать:</strong> Напишите адрес или название СНТ, площадь дома, задачу и желаемый срок.</p>]]></Description>
+    <Address>Московская область, Солнечногорск</Address>
+    <Price>2500</Price>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/dmitrov/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+    </Images>
+    <Place>У клиента</Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика сетевого оборудования</ServiceName>
+        <ServicePrice>0</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка Wi-Fi роутера</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка сервера</ServiceName>
+        <ServicePrice>2000</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение дачи, дома к интернету</ServiceName>
+        <ServicePrice>2500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение офиса к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение квартиры к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Усиление сигнала интернета</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Обновление прошивки роутера</ServiceName>
+        <ServicePrice>2400</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект для оборудования эконом</ServiceTitle>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект усиленный эконом</ServiceTitle>
+        <ServicePrice>12430</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект универсальный</ServiceTitle>
+        <ServicePrice>16770</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект Pro-lite</ServiceTitle>
+        <ServicePrice>21890</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+  </Ad>
+
+  <Ad>
+    <Id>VN-SIGNAL-ISTRA-001</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ManagerName>Villa.Net</ManagerName>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
+    <WorkExperience>5 лет</WorkExperience>
+    <WorkDays>пн.</WorkDays>
+    <WorkDays>вт.</WorkDays>
+    <WorkDays>ср.</WorkDays>
+    <WorkDays>чт.</WorkDays>
+    <WorkDays>пт.</WorkDays>
+    <WorkDays>сб.</WorkDays>
+    <WorkDays>вс.</WorkDays>
+    <WorkTimeFrom>08:00</WorkTimeFrom>
+    <WorkTimeTo>22:00</WorkTimeTo>
+    <Title>Усиление сигнала 4G/5G для дома и камер</Title>
+    <Description><![CDATA[<p>📡 <strong>ДИАГНОСТИКА 4G/5G И ЗАМЕРЫ СИГНАЛА — БЕСПЛАТНО.</strong></p>
+<p>🛠️ <strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></p>
+<p>🏠 Нужен стабильный 4G/5G для работы, видеосвязи и удалённого доступа к камерам? Начнём с замеров.</p>
+<p>Проверим не только максимальную скорость, но и стабильность канала, задержку и Wi‑Fi в нужных комнатах.</p>
+<p>📍 <strong>Напишите адрес, текущего оператора, что должно работать и к какому сроку.</strong></p>
+
+<p>✅ <strong>ПОЧЕМУ VILLA.NET</strong></p>
+<ul>
+  <li>По Истринскому району подбираем систему под реальную нагрузку дома: рабочие места, телевизоры, камеры и гостевой Wi‑Fi.</li>
+  <li>Сравниваем доступных операторов на объекте, а не обещаем результат по карте покрытия.</li>
+  <li>Согласуем состав системы, трассу и стоимость до начала работ.</li>
+  <li>Работаем с физлицами, ИП и организациями: договор и гарантия.</li>
+</ul>
+
+<p>🎯 <strong>ЧТО ВХОДИТ В РАБОТУ</strong></p>
+<ul>
+  <li>предварительная проверка адреса и ближайших базовых станций;</li>
+  <li>замер доступных операторов и оценка стабильности;</li>
+  <li>подбор антенны, модема, роутера и Wi‑Fi-зон;</li>
+  <li>монтаж, настройка и проверка результата при вас.</li>
+</ul>
+
+<p>💳 <strong>ПРАЙС</strong></p>
+<ul>
+  <li><strong>Диагностика и замеры сигнала — бесплатно.</strong></li>
+  <li><strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></li>
+  <li><strong>Базовое решение 4G/5G с оборудованием и монтажом — от 8 490 ₽.</strong></li>
+</ul>
+
+<p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
+<p>🚀 <strong>Чтобы начать:</strong> Напишите адрес, текущего оператора, что должно работать и к какому сроку.</p>]]></Description>
+    <Address>Московская область, Истра</Address>
+    <Price>2500</Price>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/istra/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+    </Images>
+    <Place>У клиента</Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика сетевого оборудования</ServiceName>
+        <ServicePrice>0</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка Wi-Fi роутера</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка сервера</ServiceName>
+        <ServicePrice>2000</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение дачи, дома к интернету</ServiceName>
+        <ServicePrice>2500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение офиса к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение квартиры к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Усиление сигнала интернета</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Обновление прошивки роутера</ServiceName>
+        <ServicePrice>2400</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект для оборудования эконом</ServiceTitle>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект усиленный эконом</ServiceTitle>
+        <ServicePrice>12430</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект универсальный</ServiceTitle>
+        <ServicePrice>16770</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект Pro-lite</ServiceTitle>
+        <ServicePrice>21890</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+  </Ad>
+
+  <Ad>
+    <Id>VN-INET-SERGIEV-001</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ManagerName>Villa.Net</ManagerName>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
+    <WorkExperience>5 лет</WorkExperience>
+    <WorkDays>пн.</WorkDays>
+    <WorkDays>вт.</WorkDays>
+    <WorkDays>ср.</WorkDays>
+    <WorkDays>чт.</WorkDays>
+    <WorkDays>пт.</WorkDays>
+    <WorkDays>сб.</WorkDays>
+    <WorkDays>вс.</WorkDays>
+    <WorkTimeFrom>08:00</WorkTimeFrom>
+    <WorkTimeTo>22:00</WorkTimeTo>
+    <Title>Интернет и Wi‑Fi в частный дом под ключ</Title>
+    <Description><![CDATA[<p>📡 <strong>ДИАГНОСТИКА 4G/5G И ЗАМЕРЫ СИГНАЛА — БЕСПЛАТНО.</strong></p>
+<p>🛠️ <strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></p>
+<p>🏠 Интернет и Wi‑Fi для частного дома — подберём систему по замерам и площади, а не вслепую.</p>
+<p>Один инженер ведёт объект: проверка адреса, замер операторов, подбор оборудования, монтаж, настройка и приёмка.</p>
+<p>📍 <strong>Пришлите адрес, площадь и этажность дома, текущую проблему и желаемый срок.</strong></p>
+
+<p>✅ <strong>ПОЧЕМУ VILLA.NET</strong></p>
+<ul>
+  <li>Для домов Сергиево‑Посадского округа заранее оцениваем рельеф, лес и зоны, где нужен уверенный Wi‑Fi.</li>
+  <li>Сравниваем доступных операторов на объекте, а не обещаем результат по карте покрытия.</li>
+  <li>Согласуем состав системы, трассу и стоимость до начала работ.</li>
+  <li>Работаем с физлицами, ИП и организациями: договор и гарантия.</li>
+</ul>
+
+<p>🎯 <strong>ЧТО ВХОДИТ В РАБОТУ</strong></p>
+<ul>
+  <li>предварительная проверка адреса и ближайших базовых станций;</li>
+  <li>замер доступных операторов и оценка стабильности;</li>
+  <li>подбор антенны, модема, роутера и Wi‑Fi-зон;</li>
+  <li>монтаж, настройка и проверка результата при вас.</li>
+</ul>
+
+<p>💳 <strong>ПРАЙС</strong></p>
+<ul>
+  <li><strong>Диагностика и замеры сигнала — бесплатно.</strong></li>
+  <li><strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></li>
+  <li><strong>Базовое решение 4G/5G с оборудованием и монтажом — от 8 490 ₽.</strong></li>
+</ul>
+
+<p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
+<p>🚀 <strong>Чтобы начать:</strong> Пришлите адрес, площадь и этажность дома, текущую проблему и желаемый срок.</p>]]></Description>
+    <Address>Московская область, Сергиев Посад</Address>
+    <Price>2500</Price>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/revamp-2500/naro-fominsk/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+    </Images>
+    <Place>У клиента</Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика сетевого оборудования</ServiceName>
+        <ServicePrice>0</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка Wi-Fi роутера</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка сервера</ServiceName>
+        <ServicePrice>2000</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение дачи, дома к интернету</ServiceName>
+        <ServicePrice>2500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение офиса к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение квартиры к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Усиление сигнала интернета</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Обновление прошивки роутера</ServiceName>
+        <ServicePrice>2400</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект для оборудования эконом</ServiceTitle>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект усиленный эконом</ServiceTitle>
+        <ServicePrice>12430</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект универсальный</ServiceTitle>
+        <ServicePrice>16770</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект Pro-lite</ServiceTitle>
+        <ServicePrice>21890</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+  </Ad>
+
+  <Ad>
+    <Id>VN-SIGNAL-NAROFOMINSK-001</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ManagerName>Villa.Net</ManagerName>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Интернет и другие сети</ServiceSubtype>
+    <WorkExperience>5 лет</WorkExperience>
+    <WorkDays>пн.</WorkDays>
+    <WorkDays>вт.</WorkDays>
+    <WorkDays>ср.</WorkDays>
+    <WorkDays>чт.</WorkDays>
+    <WorkDays>пт.</WorkDays>
+    <WorkDays>сб.</WorkDays>
+    <WorkDays>вс.</WorkDays>
+    <WorkTimeFrom>08:00</WorkTimeFrom>
+    <WorkTimeTo>22:00</WorkTimeTo>
+    <Title>Стабильный 4G/5G интернет — замер сигнала</Title>
+    <Description><![CDATA[<p>📡 <strong>ДИАГНОСТИКА 4G/5G И ЗАМЕРЫ СИГНАЛА — БЕСПЛАТНО.</strong></p>
+<p>🛠️ <strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></p>
+<p>🏠 4G/5G работает только у окна или скорость падает в доме? Проверим сигнал и найдём причину.</p>
+<p>Измерим операторов, оценим место внешней антенны, кабельную трассу и Wi‑Fi-покрытие без покупки лишнего комплекта.</p>
+<p>📍 <strong>Напишите населённый пункт или СНТ, оператора, проблему и когда нужен монтаж.</strong></p>
+
+<p>✅ <strong>ПОЧЕМУ VILLA.NET</strong></p>
+<ul>
+  <li>В Наро‑Фоминском округе условия сильно меняются от посёлка к посёлку, поэтому решение выбираем после адресной проверки.</li>
+  <li>Сравниваем доступных операторов на объекте, а не обещаем результат по карте покрытия.</li>
+  <li>Согласуем состав системы, трассу и стоимость до начала работ.</li>
+  <li>Работаем с физлицами, ИП и организациями: договор и гарантия.</li>
+</ul>
+
+<p>🎯 <strong>ЧТО ВХОДИТ В РАБОТУ</strong></p>
+<ul>
+  <li>предварительная проверка адреса и ближайших базовых станций;</li>
+  <li>замер доступных операторов и оценка стабильности;</li>
+  <li>подбор антенны, модема, роутера и Wi‑Fi-зон;</li>
+  <li>монтаж, настройка и проверка результата при вас.</li>
+</ul>
+
+<p>💳 <strong>ПРАЙС</strong></p>
+<ul>
+  <li><strong>Диагностика и замеры сигнала — бесплатно.</strong></li>
+  <li><strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></li>
+  <li><strong>Базовое решение 4G/5G с оборудованием и монтажом — от 8 490 ₽.</strong></li>
+</ul>
+
+<p>🏘️ <strong>АКЦИЯ «СОСЕДИ» — СКИДКА 20%.</strong> Условия скидки и состав работ фиксируем заранее.</p>
+<p>🚀 <strong>Чтобы начать:</strong> Напишите населённый пункт или СНТ, оператора, проблему и когда нужен монтаж.</p>]]></Description>
+    <Address>Московская область, Наро-Фоминск</Address>
+    <Price>2500</Price>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/03-log-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
+    </Images>
+    <Place>У клиента</Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <PriceList>
+      <Service>
+        <ServiceName>Диагностика сетевого оборудования</ServiceName>
+        <ServicePrice>0</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка Wi-Fi роутера</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка сервера</ServiceName>
+        <ServicePrice>2000</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Настройка 3G- и 4G-модема</ServiceName>
+        <ServicePrice>2600</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение дачи, дома к интернету</ServiceName>
+        <ServicePrice>2500</ServicePrice>
+        <ServiceStartingPrice>Да</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение офиса к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Подключение квартиры к интернету</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Усиление сигнала интернета</ServiceName>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Обновление прошивки роутера</ServiceName>
+        <ServicePrice>2400</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект для оборудования эконом</ServiceTitle>
+        <ServicePrice>8490</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект усиленный эконом</ServiceTitle>
+        <ServicePrice>12430</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект универсальный</ServiceTitle>
+        <ServicePrice>16770</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+      <Service>
+        <ServiceName>Своя услуга</ServiceName>
+        <ServiceTitle>Комплект Pro-lite</ServiceTitle>
+        <ServicePrice>21890</ServicePrice>
+        <ServiceStartingPrice>Нет</ServiceStartingPrice>
+        <ServicePriceType>за услугу</ServicePriceType>
+      </Service>
+    </PriceList>
+  </Ad>
 </Ads>
