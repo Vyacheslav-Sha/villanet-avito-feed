@@ -3416,11 +3416,11 @@
     <WorkDays>вс.</WorkDays>
     <WorkTimeFrom>08:00</WorkTimeFrom>
     <WorkTimeTo>22:00</WorkTimeTo>
-    <Title>Интернет на дачу 4G/5G — Куровское</Title>
+    <Title>Интернет и Wi‑Fi для дома — Москва</Title>
     <Description><![CDATA[<p>📡 <strong>ДИАГНОСТИКА 4G/5G И ЗАМЕРЫ СИГНАЛА — БЕСПЛАТНО.</strong></p>
 <p>🛠️ <strong>Настройка Wi‑Fi, роутера или модема — от 2 500 ₽.</strong></p>
-<p>🏠 Подключим интернет 4G/5G для дом, участок и хозяйственные постройки после проверки условий по вашему адресу.</p>
-<p>Для Куровское учитываем ближайшие станции и подходящего оператора по фактическим замерам.</p>
+<p>🏠 Подключим интернет 4G/5G для дома, участка, офиса и хозяйственных построек после проверки условий по вашему адресу.</p>
+<p>Для Москвы сравниваем доступных операторов и подбираем решение по фактическим замерам.</p>
 <p>📍 <strong>Напишите адрес или СНТ, текущего оператора, проблему и желаемый срок.</strong></p>
 
 <p>✅ <strong>ПОЧЕМУ VILLA.NET</strong></p>
@@ -3450,16 +3450,16 @@
 <p>Не обещаем скорость без проверки: на результат влияют расстояние до станции, загрузка сектора, рельеф, лес, стены и высота антенны.</p>
 <p>🚀 <strong>Чтобы начать, напишите:</strong> адрес, задачу, оператора или проблему и желаемый срок.</p>
 <p>🗓️ <strong>Работаем 7 дней в неделю, ежедневно с 08:00 до 22:00.</strong></p>]]></Description>
-    <Address>Московская область, Куровское</Address>
+    <Address>Москва</Address>
     <Price>2500</Price>
     <Images>
-      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/city-unique/vn-inet-kurovskoe-001/01.jpg" />
-      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/city-unique/vn-inet-kurovskoe-001/02.jpg" />
-      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/city-unique/vn-inet-kurovskoe-001/03.jpg" />
-      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/city-unique/vn-inet-kurovskoe-001/04.jpg" />
-      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/city-unique/vn-inet-kurovskoe-001/05.jpg" />
-      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/city-unique/vn-inet-kurovskoe-001/06.jpg" />
-      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/city-unique/vn-inet-kurovskoe-001/07.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/01-cover.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/02-real-antenna.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/shared/03-speed-test-75mbps.png" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/04-country-house.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/05-router.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/06-complex-mount.jpg" />
+      <Image url="https://raw.githubusercontent.com/Vyacheslav-Sha/villanet-avito-feed/main/images/internet/mo-test-01/07-brick-house.jpg" />
     </Images>
     <Place>У клиента</Place>
     <WorkWithContract>Да</WorkWithContract>
